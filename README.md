@@ -7,7 +7,7 @@ This project is used for the testing of APGAN (not yet released).
 </div>
 
 <div align="center">
-  <img src="city_game.mp4">
+  <img src="./city_game.mp4">
 </div>
 
 ## Requirements
