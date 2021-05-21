@@ -6,6 +6,10 @@ This project is used for the testing of APGAN (not yet released).
   <img src="./result/out.gif">
 </div>
 
+<div align="center">
+  <img src="city_game.mp4">
+</div>
+
 ## Requirements
 * python3.7
 * numpy
